@@ -35,7 +35,7 @@ function Menu(props){
       
       <IconContext.Provider value={{ color: "white", size: "3em" }}>
         <div className='icon'>
-          <a target="_blank" rel="noopener noreferrer" href='https://github.com/tarek-sanat'><FaGithub/></a>
+          <a target="_blank" rel="noopener noreferrer" href='https://github.com/tarek-sanat/searchAlgorithms'><FaGithub/></a>
           
         </div>
       </IconContext.Provider>
