@@ -1,0 +1,48 @@
+.menu {
+    background-color:#292b2c; 
+    height:100%;
+}
+
+.projName{
+    background-color: #111213;
+    color: white;
+}
+
+.navbarCol{
+    color: white !important;
+}
+.centerDrop{
+    margin: 0 auto;
+}
+
+.condStyle{
+    display: inline-flex;
+    padding-left: 10px;
+}
+
+.condStyle *{
+    padding-left: 1rem;
+}
+
+.center{
+    text-align: center;
+}
+
+.selectWidth {
+    width: 80%;
+    margin-bottom: 10px;
+}
+
+.pad{
+    margin-top: 3rem;
+}
+
+.padBtn{
+    margin-top: 1rem;
+    margin-bottom: 3rem;
+}
+
+.icon{
+    bottom: 0px;
+    
+}

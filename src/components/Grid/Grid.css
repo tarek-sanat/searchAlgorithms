@@ -1,0 +1,20 @@
+.grid {
+    height:100%;
+}
+
+.node{
+    width: 28px;
+    height: 28px;
+    outline: 1px solid rgba(0, 0, 0, 0.80);
+    display: inline-block;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+
+.wall{
+    background-color: rgb(31, 27, 27);
+}
+
+
+
