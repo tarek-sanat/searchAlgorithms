@@ -9,11 +9,11 @@ This projet's goal is to visualize different pathfinding algorithms in a grid an
 As of today 4 algorithms are supported:
 * ## A* Pathfinding Algorithm
   * Guarentees the sortest path and is faster than the other algorithms. Uses 
-## Breadth First Search
+* ## Breadth First Search
   * Guarantees shortest path. Explores each neighbor node of the graph until it finds the End node or doesn't have any remaining nodes to visit.
-## Bi-Directional Breadth First Search
+* ## Bi-Directional Breadth First Search
   * Perform Breadth First Search on both Start and End nodes. When the two connect, reconstruct the shortest path.
-## Dijkstra (unweighted)
+* ## Dijkstra (unweighted)
   * Unweighted Dijkstra means that the cost from a node to a neighbor node will be 1. It will return a similar result to breadth first search.
 
 ## Technologies Used
