@@ -20,9 +20,8 @@ As of today 4 algorithms are supported:
 * This project was built using React (JavaScript) and hosted on AWS S3.
 
 <div class="row">
- ![image](https://user-images.githubusercontent.com/67877258/156256206-f583b9e2-0731-4179-86e9-9f89352ab8ab.png)
 <div class="column">
-    <img align="left" src="http://blog.addthiscdn.com/wp-content/uploads/2014/11/addthis-react-flux-javascript-scaling.png" alt="drawing" width="50"/>
+    <img align="left" src="http://blog.addthiscdn.com/wp-content/uploads/2014/11/addthis-react-flux-javascript-scaling.png" alt="drawing" width="70"/>
   </div>
   <div class="column">
     <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" alt="drawing" width="50"/>
@@ -37,6 +36,6 @@ As of today 4 algorithms are supported:
     <img align="left" src="https://miro.medium.com/max/824/1*9RqBEDU9Mbg6XM8O6d7Q9A.png" alt="drawing" width="100"/>
   </div>
  <div class="column">
-    <img align="left" src="https://www.cloudsavvyit.com/p/uploads/2019/06/55634f08.png?width=1198&trim=1,1&bg-color=000&pad=1,1" alt="drawing" width="100"/>
+    <img align="left" src="https://www.cloudsavvyit.com/p/uploads/2019/06/55634f08.png?width=1198&trim=1,1&bg-color=000&pad=1,1" alt="drawing" width="150"/>
   </div>
 </div>
