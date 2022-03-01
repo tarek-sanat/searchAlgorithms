@@ -16,4 +16,5 @@ As of today 4 algorithms are supported:
 ## Dijkstra (unweighted)
   * Unweighted Dijkstra means that the cost from a node to a neighbor node will be 1. It will return a similar result to breadth first search.
 
-#Technologies Used:
+## Technologies Used
+* This project was built using React (JavaScript) and hosted on AWS S3.
