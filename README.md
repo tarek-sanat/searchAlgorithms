@@ -21,7 +21,7 @@ As of today 4 algorithms are supported:
 
 <div class="row">
 <div class="column">
-    <img align="left" src="http://blog.addthiscdn.com/wp-content/uploads/2014/11/addthis-react-flux-javascript-scaling.png" alt="drawing" width="70"/>
+    <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="drawing" width="70"/>
   </div>
   <div class="column">
     <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" alt="drawing" width="50"/>
@@ -33,7 +33,7 @@ As of today 4 algorithms are supported:
     <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="drawing" width="40"/>
   </div>
   <div class="column">
-    <img align="left" src="https://miro.medium.com/max/824/1*9RqBEDU9Mbg6XM8O6d7Q9A.png" alt="drawing" width="100"/>
+    <img align="left" src="https://miro.medium.com/max/824/1*9RqBEDU9Mbg6XM8O6d7Q9A.png" alt="drawing" width="150"/>
   </div>
  <div class="column">
     <img align="left" src="https://www.cloudsavvyit.com/p/uploads/2019/06/55634f08.png?width=1198&trim=1,1&bg-color=000&pad=1,1" alt="drawing" width="150"/>
